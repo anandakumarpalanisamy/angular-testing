@@ -8,7 +8,7 @@ describe('VoteComponent', () => {
         component = new VoteComponent();
     });
 
-    it('', () => {
+    it('should raise voteChanged event when upvoted', () => {
 
     });
 });
